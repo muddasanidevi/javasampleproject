@@ -17,12 +17,12 @@
    <repository>
      <id>central</id>
      <name>central</name>
-     <url>http://http://65.1.86.143:8081/artifactory/ext-release-local</url>
+     <url>http://65.1.86.143:8081/artifactory/ext-release-local</url>
    </repository>
 	<snapshotRepository>
           <id>snapshots</id>
           <name>libs-snapshot-local</name>
-          <url>http://http://65.1.86.143:8081/artifactory/ext-snapshot-local</url>
+          <url>http://65.1.86.143:8081/artifactory/ext-snapshot-local</url>
         </snapshotRepository>
 	
  </distributionManagement>
